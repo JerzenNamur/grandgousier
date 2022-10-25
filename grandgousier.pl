@@ -21,6 +21,13 @@
 /*                                                                       */
 /* --------------------------------------------------------------------- */
 
+%Premières questions à implémenter :
+
+%Quels vins de Bourgogne me conseillez-vous ?
+%Que donne le Nuits-Saint-Georges en bouche ?
+%Quel nez presente le Chambolle-Musigny ?
+%Que recouvre l'appellation Haut-Medoc ?
+
 
 /*                      !!!    A MODIFIER   !!!                          */
 
